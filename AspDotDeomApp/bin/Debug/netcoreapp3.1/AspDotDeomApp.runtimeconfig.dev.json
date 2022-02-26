@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ramkr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ramkr\\.nuget\\packages"
+    ]
+  }
+}
